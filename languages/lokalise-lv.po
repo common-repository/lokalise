@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: Wordpress Plugin\n"
+"PO-Revision-Date: 2020-06-08 19:19\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: lv\n"
+
+msgid "Generate secret"
+msgstr "Ģenerēt noslēpumu"
+
+msgid "This value is used to authorize Lokalise in your site."
+msgstr "Šī vērtība tiek izmantota, lai autorizētu Lokalise jūsu vietnē."
+
+msgid "Authorization secret"
+msgstr "Autorizācijas noslēpums"
+
+msgid "Lokalise settings"
+msgstr "Lokalise iestatījumi"
+
+msgid "https://lokalise.com"
+msgstr "https://lokalise.com"
+
+msgid "Lokalise"
+msgstr "Lokalise"
+
+msgid "Adds functionality to exchange post and page content with Lokalise"
+msgstr "Pievieno funkcionalitāti, lai apmainītos ar lapas saturu ar Lokalise"
+
+msgid "https://docs.lokalise.com/wordpress-plugin"
+msgstr "https://docs.lokalise.com/wordpress-plugin"
+
+msgid "Lokalise Companion Plugin"
+msgstr "Lokalise Companion Plugin"
+
+msgid "Accept"
+msgstr "Piekrītu"
+
+msgid "Reject"
+msgstr "Noraidīt"
+
+msgid "Create, read and update posts and pages"
+msgstr "Izveidojiet, lasiet un atjauniniet ziņas un lapas"
+
+msgid "Lokalise is asking your permission to"
+msgstr "Lokalise lūdz jūsu atļauju"
+
+msgid "Redirect URI is not valid."
+msgstr "Novirzīšanas URI nav derīgs."
+
+msgid "Switch account"
+msgstr "Mainīt kontu"
+
+msgid "Signed in as <b>%s</b>."
+msgstr "Pierakstījies kā <b> %s </b> ."
+
+msgid "Return to Lokalise"
+msgstr "Atgriešanās Lokalise"
+
+msgid "Resolve errors and try again."
+msgstr "Atrisiniet kļūdas un mēģiniet vēlreiz."
+
+msgid "Authorization can not be performed."
+msgstr "Pilnvarojumu nevar veikt."
+
+msgid "Lokalise authorization - "
+msgstr "Lokalise atļauja -"
+
+msgid "Redirect URI is not provided."
+msgstr "Novirzīšanas URI netiek nodrošināts."
+
+msgid "No localization plugin is enabled to fully utilize Lokalise Companion Plugin.<br />At least one of following plugins need to be enabled:"
+msgstr "Neviens lokalizācijas spraudnis nav iespējots, lai pilnībā izmantotu Lokalise Companion spraudni. <br /> \n Jāaktivizē vismaz viens no šiem spraudņiem:"
+
+msgid "Lokalise secret is not set-up, you will not be able to authorize Wordpress integration without it.<br />Got to <i>Settings > Lokalise</i> and generate secret.<br />"
+msgstr "Lokalise noslēpums nav iestatīts, bez tā jūs nevarēsit atļaut Wordpress integrāciju. <br /> \n Jāiet uz <i> Iestatījumi > Lokalise </i> un jāizveido slepenība. <br />"
+
+msgid "You have more than one localization plugin enabled. This might affect the stability of Lokalise plugin work."
+msgstr "Ir ieslēgts vairāk kā viens lokalizācijas paplašinājums. Tas var ietekmēt Lokalise paplašinājuma stabilitāti."

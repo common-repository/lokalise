@@ -1,0 +1,15 @@
+.lokalise-dashboard {
+
+}
+
+.lokalise-dashboard .option-about {
+    font-weight: normal;
+    display: inline-block;
+    font-size: 12px;
+    margin-top: 4px;
+}
+
+.lokalise-dashboard .auth-secret {
+    display: inline-block;
+    margin-bottom: 4px;
+}

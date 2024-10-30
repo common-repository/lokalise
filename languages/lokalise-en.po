@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.3.1\n"
+
+msgid "Generate secret"
+msgstr "Generate secret"
+
+msgid "This value is used to authorize Lokalise in your site."
+msgstr "This value is used to authorize Lokalise in your site."
+
+msgid "Authorization secret"
+msgstr "Authorization secret"
+
+msgid "Lokalise settings"
+msgstr "Lokalise settings"
+
+msgid "https://lokalise.com"
+msgstr "https://lokalise.com"
+
+msgid "Lokalise"
+msgstr "Lokalise"
+
+msgid "Adds functionality to exchange post and page content with Lokalise"
+msgstr "Adds functionality to exchange post and page content with Lokalise"
+
+msgid "https://docs.lokalise.com/wordpress-plugin"
+msgstr "https://docs.lokalise.com/wordpress-plugin"
+
+msgid "Lokalise Companion Plugin"
+msgstr "Lokalise Companion Plugin"
+
+msgid "Accept"
+msgstr "Accept"
+
+msgid "Reject"
+msgstr "Reject"
+
+msgid "Create, read and update posts and pages"
+msgstr "Create, read and update posts and pages"
+
+msgid "Lokalise is asking your permission to"
+msgstr "Lokalise is asking your permission to"
+
+msgid "Redirect URI is not valid."
+msgstr "Redirect URI is not valid."
+
+msgid "Switch account"
+msgstr "Switch account"
+
+msgid "Signed in as <b>%s</b>."
+msgstr "Signed in as <b>%s</b>."
+
+msgid "Return to Lokalise"
+msgstr "Return to Lokalise"
+
+msgid "Resolve errors and try again."
+msgstr "Resolve errors and try again."
+
+msgid "Authorization can not be performed."
+msgstr "Authorization can not be performed."
+
+msgid "Lokalise authorization - "
+msgstr "Lokalise authorization - "
+
+msgid "Redirect URI is not provided."
+msgstr "Redirect URI is not provided."
+
+msgid "No localization plugin is enabled to fully utilize Lokalise Companion Plugin.<br />At least one of following plugins need to be enabled:"
+msgstr "No localization plugin is enabled to fully utilize Lokalise Companion Plugin.<br />\n        At least one of following plugins need to be enabled:"
+
+msgid "Lokalise secret is not set-up, you will not be able to authorize Wordpress integration without it.<br />Got to <i>Settings > Lokalise</i> and generate secret.<br />"
+msgstr "Lokalise secret is not set-up, you will not be able to authorize Wordpress integration without it.<br />\n            Got to <i>Settings > Lokalise</i> and generate secret.<br />"
+
+msgid "You have more than one localization plugin enabled. This might affect the stability of Lokalise plugin work."
+msgstr "You have more than one localization plugin enabled. This might affect the stability of Lokalise plugin work."
